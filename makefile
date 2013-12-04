@@ -1,4 +1,4 @@
-all:
-	rsync -avzP --delete /home/whitejs/dev/git/tapestry/ /var/www/tapestry/ 
 freyr:
-	rsync -avzP --delete /home/whitejs/dev/git/tapestry/ root@freyr:/var/www/tapestry/ 
+	rsync -avzP --delete ${HOME}/dev/git/tapestry/ root@freyr.websages.com:/var/www/tapestry/ 
+local:
+	rsync -avzP --delete ${HOME}/dev/git/tapestry/ /var/www/tapestry/ 
