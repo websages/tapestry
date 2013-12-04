@@ -33,4 +33,11 @@ Adding a "scene":
 Adding a logo:
     just put the logo in comics/narrative/soggies_narrative/scene_images named after the scene id in the narrative.json file
     (scene "id": 15 would be scene15.png)
-    
+
+To serve up the tapestry page locally:
+
+    $ cd $(YOUR_GIT_PATH)/tapestry
+    $ ruby -run -e httpd . -p 9090
+
+Then hit [http://localhost:9090/](http://localhost:9090) with a web browser.
+
