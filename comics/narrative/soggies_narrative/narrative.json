@@ -16,5 +16,7 @@
         { "id": 11, "name": "Caterpillar FPD (lak)",          "start": 17, "duration": 6,   "chars": [ 0, 1, 2, 9 ] },
         { "id": 12, "name": "Caterpillar (peoria)",           "start": 18, "duration": 18,   "chars": [ 8 ] },
         { "id": 13, "name": "MercyCorps",                     "start": 40, "duration": 18,   "chars": [ 9 ] }
+        { "id": 14, "name": "Dury's",                         "start": 18, "duration": 15,   "chars": [ 5 ] }
+        { "id": 15, "name": "XO",                             "start": 12, "duration": 5,    "chars": [ 5 ] }
     ]
 }
