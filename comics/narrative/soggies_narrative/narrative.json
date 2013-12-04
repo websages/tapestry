@@ -9,7 +9,8 @@
         { "id": 4, "name": "Asurion",           "start": 44, "duration": 8,   "chars": [ 3, 4, 5 ] },
         { "id": 5, "name": "EFT Source",        "start": 50, "duration": 13,  "chars": [ 2, 3 ] },
         { "id": 6, "name": "BlueStar",          "start": 8,  "duration": 8,   "chars": [ 0, 1, 2, 7 ] },
-        { "id": 7, "name": "CHS",               "start": 52, "duration": 6,   "chars": [ 4, 5 ] } 
+        { "id": 7, "name": "CHS",               "start": 54, "duration": 10,   "chars": [ 4, 5 ] } 
         { "id": 8, "name": "Credit Control",    "start": 38, "duration": 6,   "chars": [ 4 ] } 
+        { "id": 9, "name": "PuppetLabs",        "start": 53, "duration": 1,   "chars": [ 4 ] } 
     ]
 }
