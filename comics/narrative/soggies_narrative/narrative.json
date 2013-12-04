@@ -4,7 +4,7 @@
     "scenes": [
         { "id": 0, "name": "Auburn University",               "start": 0,  "duration": 7,   "chars": [ 3, 6 ] },
         { "id": 1, "name": "GAPS Inc.",                       "start": 8,  "duration": 16,  "chars": [ 3, 6 ] },
-        { "id": 2, "name": "Caterpillar FPD (post lak)",      "start": 26, "duration": 6,   "chars": [ 0, 1, 2, 3 ] },
+        { "id": 2, "name": "Caterpillar FPD (post lak)",      "start": 26, "duration": 6,   "chars": [ 0, 1, 2, 3, 7 ] },
         { "id": 3, "name": "Bank of New York",                "start": 33, "duration": 1,   "chars": [ 1, 3 ] },
         { "id": 4, "name": "Asurion",                         "start": 44, "duration": 8,   "chars": [ 3, 4, 5 ] },
         { "id": 5, "name": "EFT Source",                      "start": 50, "duration": 13,  "chars": [ 2, 3 ] },
