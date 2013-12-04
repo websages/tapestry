@@ -916,9 +916,10 @@ function draw_chart(name, safe_name, folder, tie_breaker, center_sort, collapse)
 }
 
 dir = "comics/narrative/";
-draw_chart("Lucky Luke #38, \"Ma Dalton\"", "luckyluke6", dir + "luckyluke6_narrative", true, false, false);
-draw_chart("Tintin #23, \"Tintin and the Picaros\"", "tintin23", dir + "tintin23_narrative", true, true, false);
+draw_chart("Soggies \"How who knows whom\"", "soggies", dir + "soggies_narrative", true, false, false);
+// JSW draw_chart("Lucky Luke #38, \"Ma Dalton\"", "luckyluke6", dir + "luckyluke6_narrative", true, false, false);
+// JSW draw_chart("Tintin #23, \"Tintin and the Picaros\"", "tintin23", dir + "tintin23_narrative", true, true, false);
 //draw_chart("Tintin #4, Cigars of the Pharaoh", "tintin4", dir + "tintin4_narrative", true, true, true);
-draw_chart("Dr. McNinja #25, \"A Cumberland Ninja in King Radical's Court\"", "drmcninja25", dir + "drmcninja25_narrative", false, true, true);
+// JSW draw_chart("Dr. McNinja #25, \"A Cumberland Ninja in King Radical's Court\"", "drmcninja25", dir + "drmcninja25_narrative", false, true, true);
 //draw_chart("Bone #28", "bone28", "bone28_narrative", true, false);
 //draw_chart("Chew #32", "chew32", "chew32_narrative", false, true);
