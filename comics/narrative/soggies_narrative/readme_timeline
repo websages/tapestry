@@ -1,0 +1,20 @@
+Dates are broken down by quarters (best approximation) and use the minimum time that all the people in a scene were there.
+So if say heath and james were both at EFT Source, but james started in March of 2008, and heath in July of 2010, and they both left in Dec of 2013, 
+it would be start: 50, duration: 13.
+1998 0-3
+1999 4-7
+2000 8-11
+2001 12-15
+2002 16-19
+2003 20-23
+2004 24-27
+2005 28-31
+2006 32-35
+2007 36-39
+2008 40-41
+2009 44-47
+2010 48-51
+2011 52-55
+2012 56-59
+2013 60-63
+
