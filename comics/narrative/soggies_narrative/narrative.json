@@ -17,6 +17,11 @@
         { "id": 12, "name": "Caterpillar (peoria)",           "start": 18, "duration": 18,   "chars": [ 8 ] },
         { "id": 14, "name": "MercyCorps",                     "start": 40, "duration": 18,   "chars": [ 9 ] },
         { "id": 14, "name": "Dury's",                         "start": 18, "duration": 15,   "chars": [ 5 ] },
-        { "id": 15, "name": "XO",                             "start": 12, "duration": 5,    "chars": [ 5 ] }
+        { "id": 15, "name": "XO",                             "start": 12, "duration": 5,    "chars": [ 5 ] },
+        { "id": 16, "name": "centresource",                   "start": 23, "duration": 43,   "chars": [ 10, 11, 12, 13, 14, 15 ] },
+        { "id": 17, "name": "Education Networks of America",  "start": 12, "duration": 11,   "chars": [ 12 ] },
+        { "id": 18, "name": "BubbleUp",                       "start": 36, "duration": 10,   "chars": [ 10, 11 ] },
+        { "id": 19, "name": "Vanderbilt University",          "start": 4, "duration": 19,    "chars": [ 10, 16 ] },
+        { "id": 20, "name": "Raven Tools",                    "start": 53, "duration": 10,   "chars": [ 15 ] }
     ]
 }
