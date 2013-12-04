@@ -22,7 +22,7 @@
         { "id": 17, "name": "Education Networks of America",  "start": 12, "duration": 11,   "chars": [ 12 ] },
         { "id": 18, "name": "BubbleUp",                       "start": 36, "duration": 10,   "chars": [ 10, 11 ] },
         { "id": 19, "name": "Vanderbilt University",          "start": 4,  "duration": 19,   "chars": [ 10, 16 ] },
-        { "id": 20, "name": "Raven Tools",                    "start": 53, "duration": 10,   "chars": [ 15 ] }
+        { "id": 20, "name": "Raven Tools",                    "start": 53, "duration": 10,   "chars": [ 15 ] },
         { "id": 21, "name": "Centerstone",                    "start": 30, "duration": 9,    "chars": [17, 18, 19, 20] }
     ]
 }
