@@ -4,8 +4,8 @@
     <character group="0" id="2" name="Heath Seals" />
     <character group="1" id="3" name="James White" />
     <character group="2" id="4" name="James Fryman" />
-    <character group="2" id="5" name="Aziz Shamim" />
+    <character group="3" id="5" name="Aziz Shamim" />
     <character group="1" id="6" name="Frankie Pickle" />
     <character group="0" id="7" name="Rob Braden" />
-    <character group="0" id="8" name="Mike Stahnke" />
+    <character group="4" id="8" name="Mike Stahnke" />
 </characters>
