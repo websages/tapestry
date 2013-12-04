@@ -11,8 +11,8 @@
         { "id": 6, "name": "BlueStar",                        "start": 8,  "duration": 8,   "chars": [ 0, 1, 2, 7 ] },
         { "id": 7, "name": "CHS",                             "start": 54, "duration": 10,   "chars": [ 4, 5 ] },
         { "id": 8, "name": "Credit Control",                  "start": 38, "duration": 6,   "chars": [ 4 ] },
-        { "id": 9, "name": "PuppetLabs",                      "start": 53, "duration": 1,   "chars": [ 0, 1, 4, 8 ] } 
+        { "id": 9, "name": "PuppetLabs",                      "start": 53, "duration": 1,   "chars": [ 0, 1, 4, 8 ] },
         { "id": 10, "name": "Caterpillar FPD (post-soggies)", "start": 32, "duration": 8,   "chars": [ 6, 7, 8 ] },
-        { "id": 11, "name": "Caterpillar FPD (lak)",          "start": 17, "duration": 6,   "chars": [ 0, 1, 2, 3 ] },
+        { "id": 11, "name": "Caterpillar FPD (lak)",          "start": 17, "duration": 6,   "chars": [ 0, 1, 2, 3 ] }
     ]
 }
