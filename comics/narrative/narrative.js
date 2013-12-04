@@ -40,7 +40,7 @@ var sw_panels = 3;
 
 // Longest name in pixels to make space at the beginning 
 // of the chart. Can calculate but this works okay.
-var longest_name = 115;
+var longest_name = 150;
 
 // True: When deciding on which group to put a scene in,
 // if there's a tie, break the tie based on which
