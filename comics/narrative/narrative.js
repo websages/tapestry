@@ -916,7 +916,7 @@ function draw_chart(name, safe_name, folder, tie_breaker, center_sort, collapse)
 }
 
 dir = "comics/narrative/";
-draw_chart("Soggies \"How who knows whom\"", "soggies", dir + "soggies_narrative", true, false, false);
+draw_chart("Nashville Technology Sankey Diagram", "soggies", dir + "soggies_narrative", true, false, false);
 // JSW draw_chart("Lucky Luke #38, \"Ma Dalton\"", "luckyluke6", dir + "luckyluke6_narrative", true, false, false);
 // JSW draw_chart("Tintin #23, \"Tintin and the Picaros\"", "tintin23", dir + "tintin23_narrative", true, true, false);
 //draw_chart("Tintin #4, Cigars of the Pharaoh", "tintin4", dir + "tintin4_narrative", true, true, true);
