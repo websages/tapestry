@@ -4,15 +4,15 @@ var link_gap = 2;
 
 var node_width = 10; // Set to panel_width later
 var color = d3.scale.category10();
-var raw_chart_width = 1000;
+var raw_chart_width = 10000;
 
 // Height of empty gaps between groups
 // (Sparse groups and group ordering already
 // provide a lot of whitespace though.)
-var group_gap = 0;
+var group_gap = 10;
 
 // This is used for more than just text height.
-var text_height = 8;
+var text_height = 16;
 
 // If a name's x is smaller than this value * chart width,
 // the name appears at the start of the chart, as
