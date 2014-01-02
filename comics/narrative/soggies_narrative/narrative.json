@@ -27,6 +27,8 @@
         { "id": 22, "name": "NLUG",                           "start": 0,  "duration": 16,   "chars": [ 0, 12, 16, 17, 21 ] },
         { "id": 23, "name": "GitHub",                         "start": 57, "duration": 6,    "chars": [ 4, 5, 17, 18, 19, 20 ] },
         { "id": 24, "name": "OGC",                            "start": 40, "duration": 18,   "chars": [ 17, 18, 19 ] },
-        { "id": 25, "name": "University of Georgia",          "start": 23, "duration": 5,    "chars": [ 22 ] }
+        { "id": 25, "name": "University of Georgia",          "start": 23, "duration": 5,    "chars": [ 22 ] },
+        { "id": 26, "name": "BorderJump",                     "start": 60, "duration": 3,    "chars": [ 23 ] },
+        { "id": 27, "name": "Landmark Global",                "start": 63, "duration": 1,    "chars": [ 23 ] }
     ]
 }
