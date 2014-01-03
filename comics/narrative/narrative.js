@@ -11,8 +11,8 @@ var raw_chart_width = 10000;
 // provide a lot of whitespace though.)
 var group_gap = 10;
 
-// This is used for more than just text height.
-var text_height = 16;
+// This is used for more than just line height.
+var line_height = 16;
 
 // If a name's x is smaller than this value * chart width,
 // the name appears at the start of the chart, as
@@ -40,7 +40,7 @@ var sw_panels = 3;
 
 // Longest name in pixels to make space at the beginning
 // of the chart. Can calculate but this works okay.
-var longest_name = 150;
+var longest_name = 200;
 
 // True: When deciding on which group to put a scene in,
 // if there's a tie, break the tie based on which
@@ -373,7 +373,7 @@ function add_char_scenes(chars, scenes, links, groups, panel_shift, comic_name) 
     // Set y values
     var cury = 0;
     groups.forEach(function(g) {
-        var height = g.all_chars.length*text_height;
+        var height = g.all_chars.length*line_height;
 	g.min = cury;
 	g.max = g.min + height;
 	cury += height + group_gap;
@@ -382,7 +382,7 @@ function add_char_scenes(chars, scenes, links, groups, panel_shift, comic_name) 
     for (var i = 0; i < chars.length; i++) {
 	var s = new SceneNode([chars[i].id], [0], [1]);
 	s.char_node = true;
-	s.y = i*text_height;
+	s.y = i*line_height;
 	s.x = 0;
 	s.width = 5;
 	s.height = link_width;
@@ -769,7 +769,7 @@ function draw_chart(name, safe_name, folder, tie_breaker, center_sort, collapse)
 	    // Calculate chart height based on the number of characters
 	    // TODO: Redo this calculation
 	    //var raw_chart_height = xchars.length*(link_width + link_gap + group_gap);// - (link_gap + group_gap);
-	    var raw_chart_height = 360;
+	    var raw_chart_height = 560;
 	    var height = raw_chart_height - margin.top - margin.bottom;
 
 	    // Insert the collapsable title
@@ -846,7 +846,7 @@ function draw_chart(name, safe_name, folder, tie_breaker, center_sort, collapse)
 		});
 		var y = g.min;
 		for (var i = 0; i < g.all_chars.length; i++) {
-		    g.all_chars[i].group_positions[g.id] = y + i*(text_height);
+		    g.all_chars[i].group_positions[g.id] = y + i*(line_height);
 		}
 	    });
 
@@ -874,7 +874,7 @@ function draw_chart(name, safe_name, folder, tie_breaker, center_sort, collapse)
 			} else {
 			*/
 			for (var i = 0; i < first_scenes.length; i++) {
-			    first_scenes[i].y = s.y + s.height/2.0 + i*text_height;
+			    first_scenes[i].y = s.y + s.height/2.0 + i*line_height;
 			}
 			    //}
 		    }
