@@ -29,6 +29,10 @@
         { "id": 24, "name": "OGC",                            "start": 40, "duration": 18,   "chars": [ 17, 18, 19 ] },
         { "id": 25, "name": "University of Georgia",          "start": 23, "duration": 5,    "chars": [ 22 ] },
         { "id": 26, "name": "BorderJump",                     "start": 60, "duration": 3,    "chars": [ 23 ] },
-        { "id": 27, "name": "Landmark Global",                "start": 63, "duration": 1,    "chars": [ 23 ] }
+        { "id": 27, "name": "Landmark Global",                "start": 63, "duration": 1,    "chars": [ 23 ] },
+        { "id": 28, "name": "W Squared",                      "start": 45, "duration": 4,    "chars": [ 24, 25 ] },
+        { "id": 29, "name": "Eliza Brock Software",           "start": 51, "duration": 13,   "chars": [ 25 ] },
+        { "id": 30, "name": "Metova",                         "start": 41, "duration": 8,    "chars": [ 25, 26 ] },
+        { "id": 31, "name": "Zeumo",                          "start": 55, "duration": 6,    "chars": [ 26 ] }
     ]
 }
