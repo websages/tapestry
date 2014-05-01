@@ -769,7 +769,7 @@ function draw_chart(name, safe_name, folder, tie_breaker, center_sort, collapse)
 	    // Calculate chart height based on the number of characters
 	    // TODO: Redo this calculation
 	    //var raw_chart_height = xchars.length*(link_width + link_gap + group_gap);// - (link_gap + group_gap);
-	    var raw_chart_height = 560;
+	    var raw_chart_height = 1000;
 	    var height = raw_chart_height - margin.top - margin.bottom;
 
 	    // Insert the collapsable title
