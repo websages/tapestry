@@ -1,5 +1,5 @@
 <characters>
-    <character group="0" id="0" name="Luke Kanies" />
+    <character group="7" id="0" name="Luke Kanies" />
     <character group="0" id="1" name="Teyo Tyree" />
     <character group="0" id="2" name="Heath Seals" />
     <character group="1" id="3" name="James White" />
@@ -11,19 +11,20 @@
     <character group="0" id="9" name="Scott Schneider" />
     <character group="0" id="10" name="Brandon Valentine" />
     <character group="0" id="11" name="Jeremy Holland" />
-    <character group="0" id="12" name="Chris Wage" />
+    <character group="7" id="12" name="Chris Wage" />
     <character group="0" id="13" name="Jon Wage" />
     <character group="0" id="14" name="Max Bezier" />
     <character group="0" id="15" name="Stephen Yeargin" />
-    <character group="0" id="16" name="Sean-The-RIMBoy-Jewett" />
+    <character group="7" id="16" name="Sean-The-RIMBoy-Jewett" />
     <character group="5" id="17" name="Rick Bradley" />
     <character group="5" id="18" name="Kevin Barnes" />
     <character group="5" id="19" name="Yossef Mendelssohn" />
     <character group="5" id="20" name="Corey Donohoe" />
-    <character group="0" id="21" name="Arafat Mohamed" />
+    <character group="7" id="21" name="Arafat Mohamed" />
     <character group="0" id="22" name="Phillip Smith" />
     <character group="3" id="23" name="Hassan Shamim" />
     <character group="6" id="24" name="Levi Cole Kennedy" />
     <character group="6" id="25" name="Eliza Brock" />
     <character group="6" id="26" name="Keith Marcum" />
+    <character group="8" id="27" name="John Northrup" />
 </characters>

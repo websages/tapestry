@@ -21,7 +21,7 @@
         { "id": 16, "name": "centresource",                   "start": 23, "duration": 43,   "chars": [ 10, 11, 12, 13, 14, 15 ] },
         { "id": 17, "name": "Education Networks of America",  "start": 12, "duration": 11,   "chars": [ 12 ] },
         { "id": 18, "name": "BubbleUp",                       "start": 36, "duration": 10,   "chars": [ 10, 11 ] },
-        { "id": 19, "name": "Vanderbilt University",          "start": 4,  "duration": 19,   "chars": [ 10, 16 ] },
+        { "id": 19, "name": "Vanderbilt University",          "start": 4,  "duration": 23,   "chars": [ 10, 16, 27 ] },
         { "id": 20, "name": "Raven Tools",                    "start": 53, "duration": 10,   "chars": [ 15 ] },
         { "id": 21, "name": "Centerstone",                    "start": 30, "duration": 9,    "chars": [ 17, 18, 19, 20 ] },
         { "id": 22, "name": "NLUG",                           "start": 0,  "duration": 16,   "chars": [ 0, 5, 12, 16, 17, 21 ] },
@@ -34,6 +34,8 @@
         { "id": 29, "name": "Eliza Brock Software",           "start": 51, "duration": 13,   "chars": [ 25 ] },
         { "id": 30, "name": "Metova",                         "start": 41, "duration": 8,    "chars": [ 25, 26 ] },
         { "id": 31, "name": "Zeumo",                          "start": 55, "duration": 6,    "chars": [ 26 ] },
-        { "id": 32, "name": "OpenSky",                        "start": 48, "duration": 20,   "chars": [ 13, 12 ] }
+        { "id": 32, "name": "OpenSky",                        "start": 48, "duration": 20,   "chars": [ 13, 12 ] },
+        { "id": 33, "name": "Kroll",                          "start": 26, "duration": 29,   "chars": [ 27 ] },
+        { "id": 34, "name": "HireRight",                      "start": 53, "duration": 20,   "chars": [ 27 ] }
     ]
 }
